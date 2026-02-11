@@ -1,0 +1,6 @@
+build:
+  env: python
+  buildCommand: pip install -r requirements.txt
+
+run:
+  command: gunicorn app:app
