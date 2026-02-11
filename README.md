@@ -1,4 +1,4 @@
-# Bill Splitter - Pure HTML/JavaScript Version
+# Bill Splitter
 
 A modern, standalone bill splitter that runs entirely in your browser. No backend, no server, no dependencies - just open and use!
 
